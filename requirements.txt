@@ -1,0 +1,7 @@
+pyglet>=2.0.10
+mido>=1.3.2
+python-rtmidi>=1.5.8
+numpy>=1.26.0
+# Install torch separately per your CUDA/GPU:
+# https://pytorch.org/get-started/locally/
+
