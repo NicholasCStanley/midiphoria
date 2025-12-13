@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="src/midiphoria/assets/midiphoria-logo.gif" alt="Midiphoria Logo" width="600">
+  <br>
+</div>
+
 # Midiphoria
 
 MIDI‑reactive mask generator for generative AI workflows.
